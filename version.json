@@ -1,0 +1,62 @@
+{
+  "changelog": [
+    {
+      "version": "0.2.1",
+      "release_date": "2024-12-19",
+      "release_notes": "Current release with shape key symmetry repair and comprehensive symmetry tools",
+      "minimum_blender": "4.2.0",
+      "new_features": [
+        "Advanced shape key symmetry repair with direction control",
+        "Option to repair all vertices or selected only",
+        "Adjustable tolerance for mirror vertex detection",
+        "Support for both Edit Mode and Object Mode operations"
+      ],
+      "changes": [
+        "Improved shape key repair workflow",
+        "Enhanced UI with dialog options",
+        "Better error handling and user feedback"
+      ],
+      "fixes": [
+        "Fixed mirror vertex detection accuracy",
+        "Resolved Edit Mode selection issues"
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "release_date": "2024-11-15",
+      "release_notes": "Major update with new debugging tools",
+      "minimum_blender": "4.2.0",
+      "new_features": [
+        "Comprehensive mesh symmetry debugging",
+        "UV symmetry checking and repair",
+        "Loose geometry detection",
+        "Overlap vertex detection"
+      ],
+      "changes": [
+        "Reorganized panel layout",
+        "Improved performance for large meshes"
+      ],
+      "fixes": [
+        "Fixed UV mirroring accuracy",
+        "Corrected edge detection algorithm"
+      ]
+    }
+  ],
+  "stores": {
+    "blender_market": {
+      "name": "Blender Market",
+      "url": "https://blendermarket.com/creators/shugan",
+      "icon": "URL"
+    },
+    "gumroad": {
+      "name": "Gumroad",
+      "url": "https://gumroad.com/shugan",
+      "icon": "URL"
+    },
+    "booth": {
+      "name": "Booth",
+      "url": "https://shugan.booth.pm/",
+      "icon": "URL"
+    }
+  }
+}
