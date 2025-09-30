@@ -1,7 +1,7 @@
 {
   "changelog": [
     {
-      "version": "0.2.0",
+      "version": "0.2.2",
       "release_date": "2024-12-19",
       "release_notes": "Current release with shape key symmetry repair and comprehensive symmetry tools",
       "minimum_blender": "4.2.0",
